@@ -8,7 +8,7 @@ Advanced Reduction Approaches: Explores newer methodologies like Tone Reservatio
 Performance Analysis: The trade-offs between PAPR reduction, computational complexity, and signal distortion are comprehensively evaluated.
 Simulation Environment: MATLAB/Simulink-based simulations are used to validate the effectiveness of the implemented techniques.
 
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Features](#features)
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
